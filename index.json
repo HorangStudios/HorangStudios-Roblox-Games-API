@@ -1,0 +1,36 @@
+{
+    "items": [
+        {
+            "name": "Project: Skoopin Takedown",
+            "developer": "Horang Studios",
+            "info": "You are a guy that dedicated your whole life into taking down a greedy company called Skoopins along with its CEO and Founder (Mr. Fender)",
+            "banner": "https://tr.rbxcdn.com/3d3e2ddefefe1fdc904f3b21f4593fb3/768/432/Image/Png",
+            "gameid": 10492372733,
+            "type": "roblox"
+        },
+        {
+            "name": "Ketupat Hunting",
+            "developer": "Horang Studios",
+            "info": "This is an epic game where you run around a map wielding an SMG and shooting down a bunch of ketupat",
+            "banner": "https://t6.rbxcdn.com/1805a317a83eb68ca9654de3e8bfc446",
+            "gameid": 13080777171,
+            "type": "roblox"
+        },
+        {
+            "name": "QRodEX Facility 343",
+            "developer": "Horang Studios",
+            "info": "Unleash the reactor core (very beta)",
+            "banner": "https://tr.rbxcdn.com/d7f3eb1852a64d8333306d02e90fab5f/768/432/Image/Png",
+            "gameid": 13982546263,
+            "type": "roblox"
+        },
+        {
+            "name": "Voxel Destruction!",
+            "developer": "Horang Studios",
+            "info": "Everything is made out of voxels, do anything with them. (VERY BETA)",
+            "banner": "https://tr.rbxcdn.com/2c8e461c4b6f2642c3d6a48cc3f6c1d5/768/432/Image/Png",
+            "gameid": 15566704316,
+            "type": "roblox"
+        }
+    ]
+}
